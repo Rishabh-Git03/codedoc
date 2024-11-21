@@ -1,2 +1,2 @@
 # codedoc
-Author- Rishabh Sharma
+Author- Rishabh Sharma.
